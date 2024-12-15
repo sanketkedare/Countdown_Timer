@@ -3,6 +3,8 @@
 ## Objective
 The goal of this project is to create a countdown timer web application using HTML, CSS, and JavaScript. This timer allows users to set a specific date and time in the future, and it will count down to that moment, displaying the remaining time in days, hours, minutes, and seconds.
 
+**Here is Live Link for Project** - [Live Link](https://sanketkedare.github.io/Countdown_Timer/)
+
 ## Features
 1. **Set Countdown Timer**:
    - Users can input a target date and time.
@@ -30,7 +32,7 @@ The goal of this project is to create a countdown timer web application using HT
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/sanketkedare/Countdown_Timer
 cd countdown-timer
 ```
 
